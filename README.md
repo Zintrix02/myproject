@@ -15,9 +15,6 @@
 
 ---
 
-## 🔗 Ссылка на репозиторий
-
-[https://github.com/Zintrix02/myproject](https://github.com/Zintrix02/myproject)
 
 ---
 
@@ -42,7 +39,4 @@
 
 ---
 
-## 🔐 API KEY
 
-```text
-X-API-KEY: E6kUTYrYwZq2tN4QEtyzsbEBk3ie
